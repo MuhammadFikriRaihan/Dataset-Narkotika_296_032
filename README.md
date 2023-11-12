@@ -8,6 +8,6 @@ Berisi dataset dari Pengadilan Negeri Palembang yang dimana memiliki 60 putusan 
 ## Overview
 Berisi file xlsx yang di dalamnya berisi nomor putusan, Lembaga Putusan, Barang Bukti dari Putusan tersebut, dan Amar Putusan yang di mana sudah di kelompokan sesuai nomor setiap Putusan.
 
-## Source Code Scraping 
+## Source Code Scraping dan Watermark remover
 Link:
 https://colab.research.google.com/drive/1wEvs9I2C7XHIBgti2rm2nmECepm4I3kV#scrollTo=AJdhScnUtYpV
